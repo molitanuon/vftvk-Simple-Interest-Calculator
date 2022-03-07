@@ -3,16 +3,20 @@ body {
     font-family: arial;
     color:white;
 }
+
 h1{
     color:grey;
     font-family: verdana;
+    font-size: auto;
+    font-size: 126%;
 }
 
-.maindiv{ 
+.maindiv { 
     background-color: white;
     color: black;
     width: 300px;
     padding: 20px;
     border-radius: 25px;
     margin: auto;
+    box-align: center;
 }

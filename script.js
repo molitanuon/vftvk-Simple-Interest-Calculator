@@ -18,7 +18,7 @@ function compute()
     //output the result to the browser
     document.getElementById("result").innerHTML="If you deposit <mark>" + 
         (principal)+ "</mark>,\<br\>at an interest rate of <mark>" + (rate)+
-        "</mark>%\<br\>You will receive an amount of <mark>" + (amount)+ 
+        "</mark>%.\<br\>You will receive an amount of <mark>" + (amount)+ 
         "</mark>,\<br\> in the year <mark>" + (year) + "</mark>.\<br\>";
 
 }
